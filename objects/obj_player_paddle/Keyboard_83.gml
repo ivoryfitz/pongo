@@ -1,4 +1,5 @@
 ///@description Move player paddle down
+
 // If going to collide with the wall...
 if (place_meeting(x, y + paddleSpeed, obj_border)) {
   //Close the gap so the paddle is snug against the wall if it isn't already
