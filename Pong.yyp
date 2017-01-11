@@ -664,6 +664,25 @@
                 "resourcePath": "fonts\\font_score\\font_score.yy",
                 "resourceType": "GMFont"
             }
+        },
+        {
+            "Key": "a911bda4-a905-46ae-8b70-fd75ac7b9f0e",
+            "Value": {
+                "id": "4e06f845-8d77-4535-b369-fbc8c6e407c9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_paddle\\obj_paddle.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [

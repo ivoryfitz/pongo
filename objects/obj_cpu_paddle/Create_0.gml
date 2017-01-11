@@ -1,1 +1,1 @@
-paddleSpeed = 4;
+paddleSpeed = 9;
