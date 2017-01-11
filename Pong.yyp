@@ -53,7 +53,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_play\\rm_play.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -683,9 +683,105 @@
                 "resourcePath": "objects\\obj_paddle\\obj_paddle.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "7a61d741-2ef2-4c7e-a342-b273c72fbd55",
+            "Value": {
+                "id": "ac42745b-c008-49a4-b753-f4ccc802737f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\\rm_attract\\rm_attract.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "79ed0290-dd1c-47fc-9269-148d5f36f22b",
+            "Value": {
+                "id": "5955e186-f9ee-446f-8471-a462e2953722",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\cont_attract_ui\\cont_attract_ui.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bb33ab58-5a59-4ce1-9ae4-0b2f984b1814",
+            "Value": {
+                "id": "33b3e69b-ce81-412c-8420-712cf25f4316",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\\font_attract_title\\font_attract_title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "4312378d-8c33-4619-9523-67aaf092641e",
+            "Value": {
+                "id": "87a8898e-780c-4382-bcf1-0b25fce447a3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\\font_attract_start\\font_attract_start.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "df9824d0-50b0-4f82-97d9-670b12db0f9d",
+            "Value": {
+                "id": "fcca3012-6bd1-4e3f-8a18-129a94db5101",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\cont_gameover_ui\\cont_gameover_ui.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [
+        "7a61d741-2ef2-4c7e-a342-b273c72fbd55",
         "9ab473eb-60f9-4be0-9ad1-69b0c6e44ace"
     ],
     "script_order": [

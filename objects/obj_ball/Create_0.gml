@@ -5,4 +5,10 @@ ballSpdMax = 15;
 spawnX = x;
 spawnY = y;
 paddleHits = 0;
-paddleHitsSpdMultiplier = 0.7;
+paddleHitsToMaxSpd = floor(random_range(20, 40));
+paddleHitsSpdMultiplier = (ballSpdMax - ballSpd) / paddleHitsToMaxSpd;
+lastInstanceHit = noone;
+baseDir = 0;
+if (hspeed < 0) {
+  baseDir = 180;
+}

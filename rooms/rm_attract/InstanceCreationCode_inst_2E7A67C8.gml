@@ -1,0 +1,1 @@
+paddleSpeed = 5;

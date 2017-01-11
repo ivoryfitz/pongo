@@ -1,1 +1,0 @@
-paddleSpeed = 9;

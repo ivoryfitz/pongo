@@ -6,11 +6,11 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 63,
-    "bbox_left": 0,
-    "bbox_right": 15,
-    "bbox_top": 0,
-    "bboxmode": 0,
+    "bbox_bottom": 62,
+    "bbox_left": 6,
+    "bbox_right": 8,
+    "bbox_top": 1,
+    "bboxmode": 2,
     "colkind": 1,
     "coltolerance": 0,
     "frames": [
@@ -57,7 +57,7 @@
     "swatchColours": null,
     "textureGroup": 0,
     "type": 0,
-    "width": 16,
+    "width": 9,
     "xorig": 8,
     "yorig": 32
 }

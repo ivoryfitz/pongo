@@ -1,8 +1,14 @@
 /// @description Increment Blue's Score, Respawn Ball
 
-//Increment Blue Score
-cont_score_ui.blueScore++;
+if (room != rm_attract) {
+  //Increment Blue Score
+  cont_score_ui.blueScore++;
 
+  if(cont_score_ui.blueScore == cont_score_ui.winningScore) {
+    cont_gameover_ui.winner = 1;
+    cont_gameover_ui.alarm[0] = 10 * game_get_speed(gamespeed_fps);
+  }
+}
 //Destroy Ball, Save spawn coordinates
 var newX, newY;
 with (other) {

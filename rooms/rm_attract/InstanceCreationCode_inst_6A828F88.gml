@@ -1,0 +1,1 @@
+ballSpdMax = 10;
